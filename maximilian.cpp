@@ -33,6 +33,8 @@
 
 #include "maximilian.h"
 #include "math.h"
+#include "string.h"
+
 
 
 //int channels=2;
